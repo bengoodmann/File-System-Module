@@ -1,0 +1,16 @@
+{
+  "name": "file-system-module",
+  "version": "1.0.0",
+  "description": "Common use for the File System module: Read files,Create files,Update files, Delete files,Rename files",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
